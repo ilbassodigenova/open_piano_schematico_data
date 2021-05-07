@@ -2626,414 +2626,6 @@
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
-      <Id>445</Id>
-      <X>700</X>
-      <Y>390</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>446</Id>
-      <X>700</X>
-      <Y>360</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>18</Id>
-      <X>250</X>
-      <Y>210</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>19</Id>
-      <X>250</X>
-      <Y>240</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>39</Id>
-      <X>300</X>
-      <Y>270</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>40</Id>
-      <X>250</X>
-      <Y>270</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>67</Id>
-      <X>250</X>
-      <Y>300</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>68</Id>
-      <X>400</X>
-      <Y>270</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>69</Id>
-      <X>400</X>
-      <Y>300</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>109</Id>
-      <X>700</X>
-      <Y>330</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>110</Id>
-      <X>700</X>
-      <Y>360</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>33</Id>
-      <X>300</X>
-      <Y>330</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>34</Id>
-      <X>250</X>
-      <Y>330</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>35</Id>
-      <X>450</X>
-      <Y>330</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>36</Id>
-      <X>400</X>
-      <Y>330</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>37</Id>
-      <X>450</X>
-      <Y>390</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>38</Id>
-      <X>400</X>
-      <Y>390</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>331</Id>
-      <X>400</X>
-      <Y>360</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>41</Id>
-      <X>600</X>
-      <Y>450</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>42</Id>
-      <X>550</X>
-      <Y>450</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>388</Id>
-      <X>550</X>
-      <Y>420</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>43</Id>
-      <X>600</X>
-      <Y>390</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>44</Id>
-      <X>550</X>
-      <Y>390</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>386</Id>
-      <X>550</X>
-      <Y>360</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>45</Id>
-      <X>800</X>
-      <Y>450</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>46</Id>
-      <X>750</X>
-      <Y>450</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>499</Id>
-      <X>750</X>
-      <Y>420</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>47</Id>
-      <X>750</X>
-      <Y>510</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>48</Id>
-      <X>700</X>
-      <Y>510</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>438</Id>
-      <X>700</X>
-      <Y>480</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>72</Id>
-      <X>550</X>
-      <Y>330</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>73</Id>
-      <X>700</X>
-      <Y>450</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>74</Id>
-      <X>750</X>
-      <Y>390</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>70</Id>
-      <X>400</X>
-      <Y>330</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>71</Id>
-      <X>400</X>
-      <Y>360</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>646</Id>
-      <X>1450</X>
-      <Y>630</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>661</Id>
-      <X>1200</X>
-      <Y>630</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>673</Id>
-      <X>1950</X>
-      <Y>720</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>676</Id>
-      <X>1850</X>
-      <Y>630</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>672</Id>
-      <X>1850</X>
-      <Y>660</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>671</Id>
-      <X>1950</X>
-      <Y>690</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>680</Id>
-      <X>1950</X>
-      <Y>660</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>679</Id>
-      <X>1850</X>
-      <Y>600</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>723</Id>
-      <X>2150</X>
-      <Y>690</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>724</Id>
-      <X>2150</X>
-      <Y>660</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>725</Id>
-      <X>2150</X>
-      <Y>720</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>726</Id>
-      <X>2250</X>
-      <Y>600</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>712</Id>
-      <X>2250</X>
-      <Y>630</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>716</Id>
-      <X>2250</X>
-      <Y>660</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>801</Id>
-      <X>1100</X>
-      <Y>180</Y>
-      <Layer>-1</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>820</Id>
-      <X>900</X>
-      <Y>90</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>824</Id>
-      <X>750</X>
-      <Y>90</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>888</Id>
-      <X>2550</X>
-      <Y>750</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>892</Id>
-      <X>2550</X>
-      <Y>720</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>921</Id>
-      <X>3100</X>
-      <Y>720</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>959</Id>
-      <X>3250</X>
-      <Y>660</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>927</Id>
-      <X>3250</X>
-      <Y>690</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>972</Id>
-      <X>3400</X>
-      <Y>780</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>974</Id>
-      <X>3450</X>
-      <Y>750</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>976</Id>
-      <X>3500</X>
-      <Y>780</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1008</Id>
-      <X>3700</X>
-      <Y>720</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>24</Id>
-      <X>250</X>
-      <Y>210</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>148</Id>
-      <X>300</X>
-      <Y>210</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>404</Id>
-      <X>550</X>
-      <Y>450</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>486</Id>
-      <X>500</X>
-      <Y>450</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>487</Id>
-      <X>550</X>
-      <Y>510</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>271</Id>
-      <X>400</X>
-      <Y>270</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>591</Id>
-      <X>450</X>
-      <Y>270</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
       <Id>1039</Id>
       <X>3950</X>
       <Y>690</Y>
@@ -3118,26 +2710,8 @@
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
-      <Id>1054</Id>
-      <X>4150</X>
-      <Y>720</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1053</Id>
-      <X>4150</X>
-      <Y>750</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1055</Id>
-      <X>4050</X>
-      <Y>780</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1056</Id>
-      <X>4200</X>
+      <Id>1060</Id>
+      <X>4100</X>
       <Y>690</Y>
       <Layer>0</Layer>
     </DbNode>
@@ -3148,27 +2722,21 @@
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
-      <Id>1058</Id>
-      <X>4200</X>
-      <Y>750</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1059</Id>
-      <X>4150</X>
+      <Id>1055</Id>
+      <X>4050</X>
       <Y>780</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1060</Id>
-      <X>4100</X>
-      <Y>690</Y>
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
       <Id>1061</Id>
       <X>4000</X>
       <Y>810</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1059</Id>
+      <X>4150</X>
+      <Y>780</Y>
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
@@ -3184,9 +2752,21 @@
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
+      <Id>1058</Id>
+      <X>4200</X>
+      <Y>750</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
       <Id>1064</Id>
       <X>4250</X>
       <Y>750</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1056</Id>
+      <X>4200</X>
+      <Y>690</Y>
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
@@ -3280,12 +2860,6 @@
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
-      <Id>1080</Id>
-      <X>3700</X>
-      <Y>990</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
       <Id>1081</Id>
       <X>3750</X>
       <Y>1020</Y>
@@ -3295,6 +2869,12 @@
       <Id>1082</Id>
       <X>3700</X>
       <Y>1050</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1080</Id>
+      <X>3700</X>
+      <Y>990</Y>
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
@@ -3310,27 +2890,15 @@
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
-      <Id>1084</Id>
-      <X>3600</X>
-      <Y>1110</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1093</Id>
-      <X>3600</X>
-      <Y>1080</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
       <Id>1090</Id>
       <X>3600</X>
       <Y>1050</Y>
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
-      <Id>1088</Id>
-      <X>3550</X>
-      <Y>1080</Y>
+      <Id>1084</Id>
+      <X>3600</X>
+      <Y>1110</Y>
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
@@ -3343,6 +2911,12 @@
       <Id>1095</Id>
       <X>3500</X>
       <Y>1140</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1088</Id>
+      <X>3550</X>
+      <Y>1080</Y>
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
@@ -3412,26 +2986,8 @@
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
-      <Id>1107</Id>
-      <X>4350</X>
-      <Y>750</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1108</Id>
-      <X>4350</X>
-      <Y>720</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
       <Id>1110</Id>
       <X>4400</X>
-      <Y>690</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1109</Id>
-      <X>4350</X>
       <Y>690</Y>
       <Layer>0</Layer>
     </DbNode>
@@ -3439,6 +2995,12 @@
       <Id>1111</Id>
       <X>4450</X>
       <Y>690</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1107</Id>
+      <X>4350</X>
+      <Y>750</Y>
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
@@ -3451,12 +3013,6 @@
       <Id>1113</Id>
       <X>4450</X>
       <Y>750</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1114</Id>
-      <X>4350</X>
-      <Y>660</Y>
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
@@ -3496,27 +3052,9 @@
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
-      <Id>1121</Id>
+      <Id>1126</Id>
       <X>4500</X>
-      <Y>690</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1122</Id>
-      <X>4500</X>
-      <Y>660</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1123</Id>
-      <X>4500</X>
-      <Y>630</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1124</Id>
-      <X>4500</X>
-      <Y>600</Y>
+      <Y>570</Y>
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
@@ -3526,21 +3064,15 @@
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
-      <Id>1126</Id>
-      <X>4500</X>
-      <Y>570</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
-      <Id>1127</Id>
-      <X>4550</X>
-      <Y>630</Y>
-      <Layer>0</Layer>
-    </DbNode>
-    <DbNode>
       <Id>1128</Id>
       <X>4600</X>
       <Y>570</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1121</Id>
+      <X>4500</X>
+      <Y>690</Y>
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
@@ -3559,6 +3091,12 @@
       <Id>1131</Id>
       <X>4600</X>
       <Y>690</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1127</Id>
+      <X>4550</X>
+      <Y>630</Y>
       <Layer>0</Layer>
     </DbNode>
     <DbNode>
@@ -4034,6 +3572,468 @@
       <X>3000</X>
       <Y>1230</Y>
       <Layer>-1</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>445</Id>
+      <X>700</X>
+      <Y>390</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>446</Id>
+      <X>700</X>
+      <Y>360</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>18</Id>
+      <X>250</X>
+      <Y>210</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>19</Id>
+      <X>250</X>
+      <Y>240</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>39</Id>
+      <X>300</X>
+      <Y>270</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>40</Id>
+      <X>250</X>
+      <Y>270</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>67</Id>
+      <X>250</X>
+      <Y>300</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>68</Id>
+      <X>400</X>
+      <Y>270</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>69</Id>
+      <X>400</X>
+      <Y>300</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>109</Id>
+      <X>700</X>
+      <Y>330</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>110</Id>
+      <X>700</X>
+      <Y>360</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>33</Id>
+      <X>300</X>
+      <Y>330</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>34</Id>
+      <X>250</X>
+      <Y>330</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>35</Id>
+      <X>450</X>
+      <Y>330</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>36</Id>
+      <X>400</X>
+      <Y>330</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>37</Id>
+      <X>450</X>
+      <Y>390</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>38</Id>
+      <X>400</X>
+      <Y>390</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>331</Id>
+      <X>400</X>
+      <Y>360</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>41</Id>
+      <X>600</X>
+      <Y>450</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>42</Id>
+      <X>550</X>
+      <Y>450</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>388</Id>
+      <X>550</X>
+      <Y>420</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>43</Id>
+      <X>600</X>
+      <Y>390</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>44</Id>
+      <X>550</X>
+      <Y>390</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>386</Id>
+      <X>550</X>
+      <Y>360</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>45</Id>
+      <X>800</X>
+      <Y>450</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>46</Id>
+      <X>750</X>
+      <Y>450</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>499</Id>
+      <X>750</X>
+      <Y>420</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>47</Id>
+      <X>750</X>
+      <Y>510</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>48</Id>
+      <X>700</X>
+      <Y>510</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>438</Id>
+      <X>700</X>
+      <Y>480</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>72</Id>
+      <X>550</X>
+      <Y>330</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>73</Id>
+      <X>700</X>
+      <Y>450</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>74</Id>
+      <X>750</X>
+      <Y>390</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>70</Id>
+      <X>400</X>
+      <Y>330</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>71</Id>
+      <X>400</X>
+      <Y>360</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>646</Id>
+      <X>1450</X>
+      <Y>630</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>661</Id>
+      <X>1200</X>
+      <Y>630</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>673</Id>
+      <X>1950</X>
+      <Y>720</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>676</Id>
+      <X>1850</X>
+      <Y>630</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>672</Id>
+      <X>1850</X>
+      <Y>660</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>671</Id>
+      <X>1950</X>
+      <Y>690</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>680</Id>
+      <X>1950</X>
+      <Y>660</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>679</Id>
+      <X>1850</X>
+      <Y>600</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>723</Id>
+      <X>2150</X>
+      <Y>690</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>724</Id>
+      <X>2150</X>
+      <Y>660</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>725</Id>
+      <X>2150</X>
+      <Y>720</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>726</Id>
+      <X>2250</X>
+      <Y>600</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>712</Id>
+      <X>2250</X>
+      <Y>630</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>716</Id>
+      <X>2250</X>
+      <Y>660</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>801</Id>
+      <X>1100</X>
+      <Y>180</Y>
+      <Layer>-1</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>820</Id>
+      <X>900</X>
+      <Y>90</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>824</Id>
+      <X>750</X>
+      <Y>90</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>888</Id>
+      <X>2550</X>
+      <Y>750</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>892</Id>
+      <X>2550</X>
+      <Y>720</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>921</Id>
+      <X>3100</X>
+      <Y>720</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>959</Id>
+      <X>3250</X>
+      <Y>660</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>927</Id>
+      <X>3250</X>
+      <Y>690</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>972</Id>
+      <X>3400</X>
+      <Y>780</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>974</Id>
+      <X>3450</X>
+      <Y>750</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>976</Id>
+      <X>3500</X>
+      <Y>780</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1008</Id>
+      <X>3700</X>
+      <Y>720</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1054</Id>
+      <X>4150</X>
+      <Y>720</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1053</Id>
+      <X>4150</X>
+      <Y>750</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1093</Id>
+      <X>3600</X>
+      <Y>1080</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1108</Id>
+      <X>4350</X>
+      <Y>720</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1109</Id>
+      <X>4350</X>
+      <Y>690</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1114</Id>
+      <X>4350</X>
+      <Y>660</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1122</Id>
+      <X>4500</X>
+      <Y>660</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1123</Id>
+      <X>4500</X>
+      <Y>630</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>1124</Id>
+      <X>4500</X>
+      <Y>600</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>24</Id>
+      <X>250</X>
+      <Y>210</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>148</Id>
+      <X>300</X>
+      <Y>210</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>404</Id>
+      <X>550</X>
+      <Y>450</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>486</Id>
+      <X>500</X>
+      <Y>450</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>487</Id>
+      <X>550</X>
+      <Y>510</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>271</Id>
+      <X>400</X>
+      <Y>270</Y>
+      <Layer>0</Layer>
+    </DbNode>
+    <DbNode>
+      <Id>591</Id>
+      <X>450</X>
+      <Y>270</Y>
+      <Layer>0</Layer>
     </DbNode>
   </Nodes>
   <Tracks>
@@ -4644,7 +4644,7 @@
       <Id>834</Id>
       <A>687</A>
       <B>689</B>
-      <Text>Rivarolo</Text>
+      <Text />
     </DbTrack>
     <DbTrack>
       <Id>835</Id>
@@ -7143,5 +7143,37 @@
       <D>888</D>
     </DbCross>
   </Crosses>
+  <Stations>
+    <DbStation>
+      <TracksIds>833</TracksIds>
+      <TracksIds>830</TracksIds>
+      <TracksIds>834</TracksIds>
+      <TracksIds>832</TracksIds>
+      <Id>1321</Id>
+      <Text>Rivarolo</Text>
+    </DbStation>
+    <DbStation>
+      <TracksIds>1142</TracksIds>
+      <TracksIds>1162</TracksIds>
+      <TracksIds>1163</TracksIds>
+      <TracksIds>1141</TracksIds>
+      <TracksIds>1160</TracksIds>
+      <TracksIds>1161</TracksIds>
+      <TracksIds>1145</TracksIds>
+      <TracksIds>1154</TracksIds>
+      <TracksIds>1155</TracksIds>
+      <TracksIds>1146</TracksIds>
+      <TracksIds>1157</TracksIds>
+      <TracksIds>1158</TracksIds>
+      <TracksIds>1182</TracksIds>
+      <TracksIds>1180</TracksIds>
+      <TracksIds>1178</TracksIds>
+      <TracksIds>1186</TracksIds>
+      <TracksIds>1183</TracksIds>
+      <TracksIds>1181</TracksIds>
+      <Id>1322</Id>
+      <Text>Sampierdarena</Text>
+    </DbStation>
+  </Stations>
   <OpenPianoSchematicoVersion>0.2.0.0</OpenPianoSchematicoVersion>
 </DbTrackLayout>
